@@ -17,5 +17,8 @@
     <string name="app_name">Quake Report</string>
     <string name="magnitude">Magnitude</string>
     <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="offset">Offset</string>
     <string name="location">Location</string>
+    <string name="near_the">Near the</string>
 </resources>
